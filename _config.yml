@@ -27,7 +27,7 @@ search_enabled: true
 # Aux links for the upper right navigation
 aux_links:
   "gsbook on GitHub":
-    - "//github.com/RodolfoFerro/gsbook"
+    - "//github.com/op07n/gsbook"
 
 # Color scheme currently only supports "dark" or nil (default)
 color_scheme: nil
