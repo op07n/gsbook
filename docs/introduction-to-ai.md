@@ -4,7 +4,7 @@ title: Introduciton to AI
 nav_order: 2
 ---
 
-# Introduction to AI
+# Test Introduction to AI
 
 This chapter aims to introduce AI as the concept itself, its context along history and what it is now.
 {: .fs-6 .fw-300 }
